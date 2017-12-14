@@ -1,0 +1,25 @@
+#meteo-jumbotron{
+    background-color:#3D81F2;
+    color: #ffffff;
+}
+.meteo-form-search{
+     width: 500px;
+     margin-right: auto;
+     margin-left: auto;
+     margin-bottom: 10px;
+}
+.meteo-block-previs{
+    background-color: #3D81F2;
+    margin: 4px;
+    border: solid 1px #3D81F2;
+    border-radius: 5px;
+}
+.meteo-block-previs .meteo-content{
+    background-color: #FFFFFF;
+    margin: 10px; 
+    padding: 3px;
+    color: black;
+}
+#meteo-block{
+    padding: 5px;
+}
